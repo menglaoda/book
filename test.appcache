@@ -1,0 +1,18 @@
+CACHE MANIFEST
+#第一行文字，用于声明这是一个manifest缓存文件列表（必须写）
+#version1.05
+
+CACHE:
+css/main.css
+js/fengmian.js
+js/jquery.mousewheel.js
+js/jquery-1.12.0.js
+js/main.js
+main.html
+img/cover.jpg
+img/spine.jpg
+img/runlogo.png
+NETWORK:
+
+
+FALLBACK:
